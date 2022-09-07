@@ -7,6 +7,7 @@ The playable desktop app is located in the Builds directory. Mac users should ru
 The first player to run the game should create a lobby, and remaining players can join the existing room.
 
 ## Controls
+Many of the controls are not standard for FPS games. I selected controls based on my own setup of playing on a Macbook Pro without a mouse. As such, some bindings may feel odd or abnormal for more experienced or traditional PC gamers.
 ### Movement
 - Player movement: WASD keys
 - Sprint: Left Shift (HOLD)
@@ -28,7 +29,7 @@ Inspiration for the game comes from Welton King on YouTube. I watched him design
 
 All code, models, designs, and maps were developed solely by me. Sound effects were pulled from copyright-free sound libraries. The multiplayer aspect of the game runs off of Photon.
 
-## Known issues
+## Known Issues
 This game is far from perfect. Many bugs exist (more than listed below), and as this game is not published, they will likely continue to persist. The game is still enjoyable despite these!
 - Rarely after respawning, some players become invincible and lose ADS functionality until they quit/rejoin
 - Sliding does not work consistently
